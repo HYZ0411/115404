@@ -28,7 +28,7 @@
     ```
 * **提交版本 (Commit)：**
     ```bash
-    git commit -m "初始版本提交"
+    git commit -m "修改/新增/刪除：檔案 - 描述"
     ```
 
 ### 3. 上傳至 GitHub 與邀請組員
@@ -74,7 +74,7 @@
 
 ### 3. 開發與提交 (Daily Workflow)
 * **加入暫存：** `git add .`
-* **提交快照：** `git commit -m "說明修改內容"`
+* **提交快照：** `git commit -m "修改/新增/刪除：檔案-描述"`
 
 ### 4. 上傳與發起合併 (Pull Request)
 * **推送到雲端：**
