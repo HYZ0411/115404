@@ -49,7 +49,7 @@
 | Appearance | Corner radius：24 |
 | Stroke | Color：#E6E6E6（50%）；Position：Inside；Width：1px |
 | Effects（Drop shadow） | Position：x=6, y=6；Blur：10；Spread：0；Color：#000000（25%） |
-| 文字規格 | 內文：同 Body 樣式；說明：同 Caption 樣式 |
+| 文字規格 | 內文：同 內文樣式；說明：同 說明 樣式 |
 | 內容圖片 | 依實際內容配置 |
 
 ### 狀態樣式
