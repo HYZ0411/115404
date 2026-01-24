@@ -1,4 +1,4 @@
-# Figma 統一規格表（Design Spec）
+# Figma 統一規格表
 
 ## 字體設計（Typography）
 
