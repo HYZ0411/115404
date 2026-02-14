@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|
 | 標題（Title） | Lexend | Bold | 35px | #000000 | 100% |
 | 副標題（Subtitle） | Lexend | Bold | 22px | #626262 | 100% |
+| 小標題（Subheading） | Lexend | Medium | 20px | #141414 | 100% |
 | 內文（Body） | Lexend | Medium | 16px | #000000 | 100% |
 | 說明（Caption/Hint） | Lexend | Regular | 14px | #737373 | 100% |
 
